@@ -1,0 +1,6 @@
+asgiref
+backports.zoneinfo
+Django>4.2,<4.3
+sqlparse
+typing-extensions
+tzdata
